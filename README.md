@@ -4,6 +4,8 @@
 ## Contexto
 Este proyecto es un catálogo web administrativo diseñado para gestionar el inventario y las ventas de un negocio de amigurumis. Resuelve el problema del control manual de productos y facilita la recepción de pedidos directamente a través de WhatsApp. Está dirigido a los administradores del negocio y creadores de los tejidos.
 
+<img width="1075" height="915" alt="image" src="https://github.com/user-attachments/assets/4aa1b950-8b71-4d02-a873-2b89a75b8986" />
+
 ## Orientación (Cómo comenzar)
 El proyecto está siendo desarrollado utilizando **FlutterFlow** para la interfaz web y **Firebase** para la base de datos y autenticación. El despliegue final se realizará mediante **Firebase Hosting**.
 
