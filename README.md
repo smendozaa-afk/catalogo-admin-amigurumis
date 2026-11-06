@@ -20,13 +20,13 @@ Para explorar el proyecto:
 * Selección de la pasarela de comunicación (WhatsApp).
 * Configuración de los servicios base de Firebase.
 
-**Lo que sigue pendiente:**
+**Sigue pendiente:**
 * Finalizar el diseño de las pantallas en FlutterFlow.
 * Probar el despliegue en Firebase Hosting.
 * Crear la documentación de las variables de entorno.
 
 ## Colaboración
-¡Cualquier ayuda es bienvenida! Si deseas sugerir una mejora o reportar un error, por favor abre un **Issue** detallando tu propuesta. Para contribuir con código o diseño, revisa nuestro archivo `CONTRIBUTING.md` (próximamente).
+Si deseas sugerir una mejora o reportar un error, por favor abre un **Issue** detallando tu propuesta. Para contribuir con código o diseño, revisa el archivo `CONTRIBUTING.md`
 
 ## Uso de Inteligencia Artificial
 Para este reto, utilicé IA (Gemini) como mentora para estructurar los archivos Markdown paso a paso y guiarme en el flujo de Issues y Pull Requests. Verifiqué personalmente que la estructura del esquema de Firebase correspondiera a mi proyecto y que la integración de ramas se realizara sin conflictos.
