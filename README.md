@@ -25,3 +25,6 @@ Para explorar el proyecto:
 
 ## Colaboración
 ¡Cualquier ayuda es bienvenida! Si deseas sugerir una mejora o reportar un error, por favor abre un **Issue** detallando tu propuesta. Para contribuir con código o diseño, revisa nuestro archivo `CONTRIBUTING.md` (próximamente).
+
+## Uso de Inteligencia Artificial
+Para este reto, utilicé IA (Gemini) como mentora para estructurar los archivos Markdown paso a paso y guiarme en el flujo de Issues y Pull Requests. Verifiqué personalmente que la estructura del esquema de Firebase correspondiera a mi proyecto y que la integración de ramas se realizara sin conflictos.
